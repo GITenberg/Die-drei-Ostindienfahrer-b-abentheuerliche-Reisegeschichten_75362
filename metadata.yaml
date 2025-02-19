@@ -1,0 +1,63 @@
+_repo: Die-drei-Ostindienfahrer-b-abentheuerliche-Reisegeschichten_75362
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Haafner, Jacob
+    alias: Haafner, J. G. (Jacob Gotfried)
+    birthdate: 1754
+    deathdate: 1809
+    gutenberg_agent_id: '57963'
+    url: http://www.gutenberg.org/2009/agents/57963
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Jacob_Haafner
+    - https://de.wikipedia.org/wiki/Jacob_Haafner
+  - agent_name: Potter, Hebelius
+    alias: Potter, Haebele
+    birthdate: 1768
+    deathdate: 1824
+    gutenberg_agent_id: '57965'
+    url: http://www.gutenberg.org/2009/agents/57965
+    wikipedia: https://de.wikipedia.org/wiki/Hebelius_Potter
+  - agent_name: Tombe, Charles François
+    alias: Tombe, Charles Francois
+    birthdate: 1771
+    deathdate: 1829
+    gutenberg_agent_id: '57964'
+    url: http://www.gutenberg.org/2009/agents/57964
+creator:
+  editor:
+    agent_name: Fischer, Christian August
+    aliases:
+    - Althing, Christian
+    - Althing, Chr. (Christian)
+    - Fröhlichsheim, Felix von
+    - Frohlichsheim, Felix von
+    birthdate: 1771
+    deathdate: 1829
+    gutenberg_agent_id: '57962'
+    url: http://www.gutenberg.org/2009/agents/57962
+    wikipedia: https://de.wikipedia.org/wiki/Christian_August_Fischer
+description: ''
+gutenberg_issued: '2025-02-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75362'
+language: de
+pgterms:marc904: https://archive.org/details/diedreiostindien00fisc
+pgterms:marc905: 20210904094524fischer
+pgterms:marc906: '1817'
+pgterms:marc907: de
+production_note: Peter Becker, Hans Theyer and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aLeipzig :$bHartleben, $c1817.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voyages and travels'
+- !lcsh 'East Indies -- Description and travel'
+- !lcc 'DS'
+- GITenberg
+title: 'Die drei Ostindienfahrer : $b abentheuerliche Reisegeschichten'
+url: http://www.gutenberg.org/ebooks/75362
